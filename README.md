@@ -7,3 +7,7 @@ Tech Stack
 
 Deployment
 The website is hosted using AWS S3 static website hosting.
+
+Here is the live link
+
+http://sid-reddy-resume-bucket.s3-website-ap-southeast-2.amazonaws.com/
